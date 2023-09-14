@@ -1,1 +1,2 @@
 # algorytmy
+Łukasz Kłos
